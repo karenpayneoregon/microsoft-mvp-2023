@@ -65,7 +65,7 @@ Newest to oldest:
 | [C# file/folder helpers](https://dev.to/karenpayneoregon/c-filefolder-helpers-4phl) | 791 |  |
 | [Window forms data annotation](https://dev.to/karenpayneoregon/window-forms-data-annotation-276m) | 960 |  |
 | [Tips on making a web site accessible part 2](https://dev.to/karenpayneoregon/tips-on-making-a-web-site-accessible-part-2-486p) | 86 |  |
-| [.NET Core TaskDialog](https://dev.to/karenpayneoregon/net-core-taskdialog-2o4l) | 358 |  |
+| [.NET Core TaskDialog](https://dev.to/karenpayneoregon/net-core-taskdialog-2o4l) | 358 | :brown_circle: |
 | [Tips on making a web site accessible part 1](https://dev.to/karenpayneoregon/tips-on-making-a-web-site-accessible-part-1-5e8b) | 121 |  |
 | [SQL-Server working with images](https://dev.to/karenpayneoregon/sql-server-working-with-images-dp3) | 4165 |  |
 | [Bootstrap multiselect](https://dev.to/karenpayneoregon/bootstrap-multiselect-40d9) | 5273 |  |
