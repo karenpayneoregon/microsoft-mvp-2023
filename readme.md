@@ -8,6 +8,7 @@ Newest to oldest:
 
 | Article name        |   Review count    |  Notes    |
 |:------------- |:-------------|:-------------|
+| [Multiple connections for appsettings.json (C#)](https://dev.to/karenpayneoregon/multiple-connections-for-appsettingsjson-c-52b2) | 535 |  |
 | [Accessibility tip for old HTML pages](https://dev.to/karenpayneoregon/accessibility-tip-for-old-html-pages-2nj6) | 67 |  
 | [Gentle introduction to IDataProtector](https://dev.to/karenpayneoregon/gentle-introduction-to-idataprotector-c-9cd) (C#) | 3824 | 
 | [EF Core/NorthWind for Oracle](https://dev.to/karenpayneoregon/ef-corenorthwind-for-oracle-2kbk) | 179 | :yellow_circle: |
@@ -72,6 +73,8 @@ Newest to oldest:
 | [WinForms communicate between forms](https://dev.to/karenpayneoregon/winforms-communicate-between-forms-7ic) | 733 |  |
 | [Creating hot-keys for web applications](https://dev.to/karenpayneoregon/creating-hot-keys-for-web-applications-cp2) | 293 |  |
 | [Bootstrap 5 ASP.NET Core](https://dev.to/karenpayneoregon/bootstrap-5-and-razor-pages-4521) | 4853 |  |
+
+
 
 :brown_circle: Was originally on Microsoft TechNet Wiki, but was moved to DEV.to for more reach.
 
